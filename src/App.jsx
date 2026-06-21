@@ -1,10 +1,7 @@
+import Home from "./pages/Home";
+
 function App() {
-  return (
-    <div>
-      <h1>NextGen Education Demo</h1>
-      <p>Welcome to our education website.</p>
-    </div>
-  );
+  return <Home />;
 }
 
 export default App;
