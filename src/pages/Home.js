@@ -5,6 +5,7 @@ import Courses from "../components/Courses";
 import Teachers from "../components/Teachers";
 import WhyChooseUs from "../components/WhyChooseUs";
 import Testimonials from "../components/Testimonials";
+import Gallery from "../components/Gallery";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
@@ -18,6 +19,7 @@ function Home() {
       <Teachers />
       <WhyChooseUs />
       <Testimonials />
+      <Gallery />
       <Contact />
       <Footer />
     </>
