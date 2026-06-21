@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Stats from "../components/Stats";
 import Courses from "../components/Courses";
+import Teachers from "../components/Teachers";
 import WhyChooseUs from "../components/WhyChooseUs";
 import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
@@ -14,6 +15,7 @@ function Home() {
       <Hero />
       <Stats />
       <Courses />
+      <Teachers />
       <WhyChooseUs />
       <Testimonials />
       <Contact />
